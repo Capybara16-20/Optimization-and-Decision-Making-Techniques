@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AxiomaticMethodUI", "AxiomaticMethodUI\AxiomaticMethodUI.csproj", "{80F44D91-8EFD-4A9C-80B0-BBF546C5F901}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AxiomaticMethodProcessor", "AxiomaticMethodProcessor\AxiomaticMethodProcessor.csproj", "{A6CF32BD-049B-4A5D-A580-F7581EF0A51E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80F44D91-8EFD-4A9C-80B0-BBF546C5F901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80F44D91-8EFD-4A9C-80B0-BBF546C5F901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80F44D91-8EFD-4A9C-80B0-BBF546C5F901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80F44D91-8EFD-4A9C-80B0-BBF546C5F901}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6CF32BD-049B-4A5D-A580-F7581EF0A51E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6CF32BD-049B-4A5D-A580-F7581EF0A51E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6CF32BD-049B-4A5D-A580-F7581EF0A51E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6CF32BD-049B-4A5D-A580-F7581EF0A51E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82DFA84D-3578-48E7-A2F4-83301B9B0AE7}
+	EndGlobalSection
+EndGlobal
